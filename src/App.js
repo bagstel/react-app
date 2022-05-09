@@ -1,4 +1,4 @@
-import Expenses from 'components/Expenses';
+import Expenses from './components/Expenses';
 
 import { expenses } from "./dummy-data/expenses.js";
 
